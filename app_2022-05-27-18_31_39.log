@@ -1,0 +1,8 @@
+2022-May-27 18:32:20 PM [main] INFO  webdriverfactory.WebDriverFactory - Chrome Browser invoked
+2022-May-27 18:32:21 PM [main] INFO  webdriverfactory.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-May-27 18:32:21 PM [main] INFO  stepdefs.StepDefs - Browser invoked.
+2022-May-27 18:32:56 PM [main] INFO  webdriverfactory.WebDriverFactory - Browser navigated to the url: https://www.makemytrip.com/flights/
+2022-May-27 18:32:56 PM [main] INFO  CmnPageObjects.CmnPageObjects - Page url matched: https://www.makemytrip.com/flights/
+2022-May-27 18:33:13 PM [main] INFO  webdriverfactory.WebDriverFactory - Browser navigated to the url: https://www.makemytrip.com/flights/
+2022-May-27 18:33:13 PM [main] INFO  CmnPageObjects.CmnPageObjects - Page url matched: https://www.makemytrip.com/flights/
+2022-May-27 18:33:36 PM [main] INFO  webdriverfactory.WebDriverFactory - Driver closed

@@ -1,0 +1,3 @@
+2022-May-27 22:36:52 PM [main] INFO  webdriverfactory.WebDriverFactory - Chrome Browser invoked
+2022-May-27 22:36:53 PM [main] INFO  webdriverfactory.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-May-27 22:36:53 PM [main] INFO  stepdefs.StepDefs - Browser invoked.

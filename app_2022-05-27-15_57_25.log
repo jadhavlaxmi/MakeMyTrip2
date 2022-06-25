@@ -1,0 +1,5 @@
+2022-May-27 15:57:53 PM [main] INFO  webdriverfactory.WebDriverFactory - Chrome Browser invoked
+2022-May-27 15:57:53 PM [main] INFO  webdriverfactory.WebDriverFactory - Driver maximized and implicit time out set to 20 seconds
+2022-May-27 15:57:53 PM [main] INFO  stepdefs.StepDefs - Browser invoked.
+2022-May-27 15:58:21 PM [main] INFO  webdriverfactory.WebDriverFactory - Browser navigated to the url: https://www.makemytrip.com/flights/
+2022-May-27 15:58:25 PM [main] INFO  webdriverfactory.WebDriverFactory - Driver closed
